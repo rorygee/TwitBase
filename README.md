@@ -1,4 +1,4 @@
-noidea
+TwitBase V 0.12A
 ======
 
-no idea what we are doing with twitter
+A basic Twitter scooper written in Python
