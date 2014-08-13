@@ -1,10 +1,10 @@
 {
-	"App_Key": "DHvPpUKNhPBqmOoWHTioL8R8g"
-	"App_Secret": "HaCvbsQLXy61rdxbs1AuojrP0y9eunUQLYfzyzt3gOzek1BdkC"
-	"Oauth_Token": "2723648388-vUN5LPJCXUyM2juD5dVGegyX02gwjwOT66LisIe"
-	"Oauth_Token_Secret": "Wfu5QgkHiLqdaPF7t3AcM3XCihVpxUJbrUk4dkKBjJCcZ"
-	"termstotrack": "robin"
-	"locationtotrack": ""
+	"App_Key": "DHvPpUKNhPBqmOoWHTioL8R8g",
+	"App_Secret": "HaCvbsQLXy61rdxbs1AuojrP0y9eunUQLYfzyzt3gOzek1BdkC",
+	"Oauth_Token": "2723648388-vUN5LPJCXUyM2juD5dVGegyX02gwjwOT66LisIe",
+	"Oauth_Token_Secret": "Wfu5QgkHiLqdaPF7t3AcM3XCihVpxUJbrUk4dkKBjJCcZ",
+	"termstotrack": "robin",
+	"locationtotrack": "",
 	"follow": "rorygee,scoopdogg3"
 }
 	
