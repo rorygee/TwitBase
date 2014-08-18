@@ -1,0 +1,20 @@
+-- Table: "Tweet"
+
+-- DROP TABLE "Tweet";
+
+CREATE TABLE "Tweet"
+(
+  "TweetID" character varying(18) NOT NULL,
+  "Tweet_Text" text,
+  "UserID" integer,
+  "TimePosted" time with time zone,
+  "DatePosted" date,
+  "Retweets" integer,
+  "Favorites" integer,
+  CONSTRAINT "ID" PRIMARY KEY ("TweetID")
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE "Tweet"
+  OWNER TO postgres;
